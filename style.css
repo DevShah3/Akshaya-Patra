@@ -2,6 +2,10 @@ a {
     font-size: xx-large;
 }
 
+h1 {
+    font-style: oblique;
+}
+
 body {
-    background-colorL: white;
+    background-color: white;
 }
